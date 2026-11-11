@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../meta_seq/.idea/meta_seq.iml" filepath="$PROJECT_DIR$/../meta_seq/.idea/meta_seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rna_seq.iml" filepath="$PROJECT_DIR$/.idea/rna_seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/.idea/test.iml" filepath="$PROJECT_DIR$/../../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
